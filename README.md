@@ -6,6 +6,7 @@ Interactive Business Intelligence dashboard developed using Power BI and MySQL f
 - Power BI
 - MySQL
 - SQL
+- DAX 
 
 ## Dashboard Features
 - Revenue Analysis
